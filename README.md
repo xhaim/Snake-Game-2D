@@ -1,5 +1,5 @@
 
-# Project Title
+# Snake Game 2D
 
 The 2D Snake Game, developed using the Unity engine, is a classic arcade-style project that offers an engaging and nostalgic gaming experience. Players control a snake as it navigates a grid, consuming food to grow longer while avoiding collisions with its own tail and walls. The project features intuitive controls, dynamic food spawning mechanics, and a scalable difficulty level. The game incorporates vibrant graphics and smooth animations to enhance user immersion. Through its recreation of the timeless Snake concept, the project showcases both Unity development skills and an appreciation for gaming history.
 
